@@ -51,6 +51,25 @@ Resolved Call = CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1,Sheet1[Resolved]=
 
 Dashboard
 
-Shows visualizations from Call Center Trends :
+Shows visualizations used in Call Center Trends :
+
+-Pie chart- Shows the count of answered and resolved calls 
+-Stacked Column chart-shows number of calls per month
+-Guage-shows the average satisfacory rating 
+-Matrix-Presents the statistics for each agent.
+-card-Displays the average speed of answer in seconds.
 
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/50eaebd0-540a-4556-aed9-03433644879d" />
+
+##Key Insights
+
+-Most calls are answered in the month of the jan 1455
+-Most of the satisfaction ratings from each call are 3 and 4.
+-The average speed of answer by Joe is the highest.
+-The call resolution rate of Jim is the highest, even though the average speed of his answers is lower compared to those of Joe, Martha and Dan. The call answered by - him are also higher than the average number of calls answered.
+-Becky's speed of answer is the lowest among all, and her rate of calls resolved is higher. She is in the 5th position in the call resolution rate.
+-Martha has the highest speed of answered in the sec
+-Diana has highest count of not answering the call
+-Most of the calls received are for admin support 
+
+
